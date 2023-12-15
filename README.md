@@ -1,2 +1,5 @@
-# java-code-
-this is java code  for testing in devops
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
